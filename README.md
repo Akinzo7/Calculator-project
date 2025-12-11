@@ -129,6 +129,5 @@ simple-calculator/
 
 ---
 
-**My First JavaScript Project** | SuperSimpleDev Tutorial | December 2024
+**My First JavaScript Project** | SuperSimpleDev Tutorial 
 
-*"The joy of seeing your first working project is unmatched!"*
