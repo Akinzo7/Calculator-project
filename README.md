@@ -2,6 +2,7 @@
 
 My very first JavaScript project - a functional calculator that actually works!
 
+## 🚀 [Live Demo](https://akinzo7.github.io/Calculator-project/)
 
 ![Calculator Screenshot](./assets/calculator-image.png)
 
