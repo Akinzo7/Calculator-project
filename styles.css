@@ -80,7 +80,7 @@ button.operator:hover {
 
 
 .clear-btn {
-  grid-column: span 4;
+  grid-column: span 2;
   border-radius: 25px;
   background-color: #d4d4d2;
   color: #000;
@@ -92,6 +92,7 @@ button.operator:hover {
 .clear-btn:hover {
   background-color: #e5e5e3;
 }
+
 
 
 @media (min-width: 481px) and (max-width: 768px) {
